@@ -1,0 +1,10 @@
+{
+  "navigation": {
+    "tab_bar": {
+      "explore": "Khám phá",
+      "search": "Tìm kiếm",
+      "chat": "Nhắn tin",
+      "profile": "Tài khoản"
+    }
+  }
+}

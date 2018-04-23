@@ -1,0 +1,31 @@
+// get color name here: http://chir.ag/projects/name-that-color/#FDA618
+
+export const ColorPalette = {
+  blazeOrange: '#FF6600',
+  white: '#FFFFFF',
+  green: 'green',
+  blue: '#29A1F4',
+  blue1: '#2B99F2',
+  blue2: '#4267B2',
+  brown: 'brown',
+  dustyGray: '#9B9B9B',
+  mercury: '#E2E2E2',
+  tundora: '#E7E7EC',
+  athensGray: '#F5F5F7',
+  mineShaft: '#212121',
+  dodgerBlue: '#27A9F5',
+  gray: '#888888',
+  ligthMineShaft: '#333333',
+  background: '#F8F8FA',
+  alabaster: '#F7F7F7',
+  shark: '#2A2C34',
+  black: 'black',
+  haiti: '#0D0925',
+  seaShell: '#F1F0F0',
+  grayLight: '#767676',
+
+  alabaster1: '#FCFCFC',
+  sun: '#FDA618',
+  forestGreen: '#20AC25',
+  dodgerBlue1: '#3DB3FF',
+};
